@@ -1,4 +1,3 @@
-
 {
     "version": "0.2.0",
     "configurations": [
@@ -9,8 +8,8 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=hello_remote_world",
-                    "--package=hello_remote_world",
+                    "--bin=devcontainer_rust",
+                    "--package=devcontainer_rust",
                     "--manifest-path=Cargo.toml"
                 ],
                 "filter": {

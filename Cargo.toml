@@ -2,6 +2,4 @@
 name = "devcontainer_rust"
 version = "0.1.0"
 authors = ["hi@felixsebastian.dev"]
-
-[lib]
-path ="./src/lib/lib.rs"
+edition = "2021"
