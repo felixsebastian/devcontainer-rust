@@ -1,4 +1,9 @@
 {
+    "lldb.executable": "/usr/bin/lldb",
+    "rust-analyzer.checkOnSave.command": "clippy",
+    "files.watcherExclude": {
+        "**/target/**": true
+    },
     "search.exclude": {
         "**/target": true
     },
